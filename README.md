@@ -58,7 +58,7 @@
 
 ## 🚀 How to Run
 
-```bash
+
 # 1️⃣ Clone repository
 git clone https://github.com/username/OrangeHRM_Automation_Excel.git
 
@@ -72,3 +72,17 @@ Right-click testng.xml → Run As → TestNG Suite
 
 # 5️⃣ Open Extent Report
 Open reports/ExtentReport.html
+
+---
+
+👤 Author
+
+Prasiddh Mankodi
+💻 Automation Engineer | ⚡ Passionate Learner
+
+<div align="center">
+
+⭐ If you like this framework, star the repo!
+Made with ❤️ and ☕ in Eclipse IDE
+
+</div>
